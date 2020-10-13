@@ -18,7 +18,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>RELEASE</version>
+            <version>4.13.1</version>
         </dependency>
         <!-- 日志相关的依赖，使用slf4j + log4j2 -->
         <dependency>
